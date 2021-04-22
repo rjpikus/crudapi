@@ -1,4 +1,23 @@
-"#crudapi" 
+Leave at 615am
+CRUD API 
+Raspberry Pi CRUD
+Other tutorials I listed
+
+Padawons
+-Computers evolve, names of things become irrelevant because they become the standard
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Documentation 
 
@@ -72,4 +91,96 @@ Each operation gets its own endpoint
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 using Microsoft.AspNetCore.Authorization;
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+I want to say dark grey because it's the standard for formal events or business meetings, but that boring. I would probably choose blue becuase it's the color of the sky and ocean, and it's a relaxing color. I wear jeans every day so I'd like to not have to get 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
